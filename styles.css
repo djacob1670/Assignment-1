@@ -1,0 +1,38 @@
+*{
+	font-family: Palatino;
+	background-color: #B4CEB3;
+	color: #313638; 
+}
+
+body { 
+	margin: 20px 200px;
+	text-align: center;
+ }
+.container, h1, h3, h5, p{
+	max-width: 800px;
+	width: 100%;
+	margin: 0 auto;
+	display: inline-block;
+	text-align: center;
+}
+
+h1, h3, p, h5 {
+	margin-bottom: 20px;
+}
+
+h3{
+	text-decoration: underline;
+}
+
+p{
+	margin-bottom: 50px;
+}
+
+img{
+
+	width: 200px;
+	height: 200px;
+	border: solid;
+	border-color: #EAE0D5;
+	margin-bottom: 10px;
+}
